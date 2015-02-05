@@ -7,10 +7,10 @@ public class Pruebas {
 		return cod;
 	}
 
-	public void setCod(int cod) {
+	/**public void setCod(int cod) {
 		this.cod = cod;
 		int a=0;
-	}
+	}*/
 
 
 }
