@@ -11,6 +11,10 @@ public class Pruebas {
 		this.cod = cod;
 		int a=0;
 	}*/
+	
+	public class PAAFUERA{
+		
+	}
 
 
 }
